@@ -1,0 +1,26 @@
+{
+	"releases": [
+		{
+			"main": 1,
+			"minor": 1,
+			"revision": 0,
+			"date": "2026-10-12 00:00",
+			"beta": false,
+			"info": [
+				"Implemented two validated build variants with isolated output, syntax checks and source preservation.<context=\"release info\"/>",
+				"Added dashboard keyboard shortcuts with explicit macOS bindings and usage documentation.<context=\"release info\"/>"
+			]
+		},
+		{
+			"main": 1,
+			"minor": 0,
+			"revision": 0,
+			"date": "2026-10-10 16:30",
+			"beta": false,
+			"info": [
+				"Prepared the example scaffold with its own release history; implementation is pending.<context=\"release info\"/>",
+				"Added a distinct example project title and bundled microGulp logo.<context=\"release info\"/>"
+			]
+		}
+	]
+}

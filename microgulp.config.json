@@ -1,0 +1,14 @@
+{
+	"project": {
+		"title": "µGulp Example: Build Variants",
+		"description": "µGulp Recipes - build-variants",
+		"logo": "./assets/microgulp-logo.png"
+	},
+	"metadataWatchFiles": [
+		"RELEASES.json",
+		"example.json"
+	],
+	"versionSources": [
+		"RELEASES.json"
+	]
+}

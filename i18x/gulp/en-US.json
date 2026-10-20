@@ -1,0 +1,11 @@
+{
+	"Prepared the example scaffold with its own release history; implementation is pending.<context=\"release info\"/>": "Prepared the example scaffold with its own release history; implementation is pending.",
+	"Added a distinct example project title and bundled microGulp logo.<context=\"release info\"/>": "Added a distinct example project title and bundled microGulp logo.<context=\"release info\"/>",
+	"Implemented two validated build variants with isolated output, syntax checks and source preservation.<context=\"release info\"/>": "Implemented two validated build variants with isolated output, syntax checks and source preservation.",
+	"Build variants<context=\"example form\"/>": "Build variants",
+	"Variants<context=\"example form\"/>": "Variants",
+	"Build created in <directory/><context=\"example log\"/>": "Build created in <directory/>",
+	"Build variants V<version/><context=\"µDisplayName\"/>": "Build variants V<version/>",
+	"Build<context=\"µGroup\"/>": "Build",
+	"Added dashboard keyboard shortcuts with explicit macOS bindings and usage documentation.<context=\"release info\"/>": "Added dashboard keyboard shortcuts with explicit macOS bindings and usage documentation."
+}

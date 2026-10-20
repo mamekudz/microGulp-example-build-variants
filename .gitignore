@@ -4,3 +4,13 @@ dist/
 .microgulp/
 *.log
 .DS_Store
+
+.example-state/
+dist/
+node_modules/
+
+AGENTS.md
+.env
+.env.*
+.npm-cache/
+references/oxyd/

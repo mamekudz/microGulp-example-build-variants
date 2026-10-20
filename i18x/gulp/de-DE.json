@@ -1,0 +1,10 @@
+{
+	"Prepared the example scaffold with its own release history; implementation is pending.<context=\"release info\"/>": "Beispielgerüst mit eigener Versionshistorie vorbereitet; Implementierung steht aus.",
+	"Implemented two validated build variants with isolated output, syntax checks and source preservation.<context=\"release info\"/>": "Zwei geprüfte Build-Varianten mit separaten Ausgaben, Syntaxprüfung und unveränderten Quellen ergänzt.",
+	"Build variants<context=\"example form\"/>": "Build-Varianten erstellen",
+	"Variants<context=\"example form\"/>": "Varianten",
+	"Build created in <directory/><context=\"example log\"/>": "Build erstellt in <directory/>",
+	"Build variants V<version/><context=\"µDisplayName\"/>": "Build-Varianten V<version/>",
+	"Build<context=\"µGroup\"/>": "Build",
+	"Added dashboard keyboard shortcuts with explicit macOS bindings and usage documentation.<context=\"release info\"/>": "Dashboard-Kurztasten mit eigener macOS-Belegung und Bedienhinweisen ergänzt."
+}
