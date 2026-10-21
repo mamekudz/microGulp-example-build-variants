@@ -48,7 +48,7 @@ BUILD_VARIANTS.µKeyBinding = { key: 'ctrl+shift+F8', mac: 'cmd+shift+F8' };
 ```
 
 <!-- blog-publication:start -->
-Artikel: [Deutsch](https://microgulp.dev/blogs/gulp-mu-build-filter)
+Artikel: [Deutsch](https://microgulp.dev/de/blog/gulp-mu-build-filter/)
 
 Weitere Beispiele: [microGulp-Examples](https://github.com/mamekudz/microGulp-Examples).
 <!-- blog-publication:end -->
